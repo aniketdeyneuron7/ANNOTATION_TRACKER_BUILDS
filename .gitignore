@@ -16,7 +16,6 @@ app/
 dist/
 
 # Extension packages (when you create them)
-*.zip
 *.crx
 
 # IDE files
