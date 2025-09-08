@@ -1,0 +1,43 @@
+# Java build outputs
+*.class
+*.jar
+build/
+target/
+out/
+bin/
+
+# jpackage outputs
+*.dmg
+*.exe
+*.msi
+*.deb
+*.rpm
+app/
+dist/
+
+# Extension packages (when you create them)
+*.zip
+*.crx
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+
+# Runtime files
+*.log
+/Library/Application Support/Annotation-Tracker/
+
+# Sensitive files
+*.key
+*.pem
+config.properties
+
